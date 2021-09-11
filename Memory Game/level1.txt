@@ -1,0 +1,23 @@
+memory game - level 1 - txt
+
+https://github.com/kubowania/memory-game
+
+https://www.youtube.com/watch?v=lhNdUVh3qCc
+
+things we are going to cover :-
+
+push()
+querySelector()
+setAttribute()
+getAttribute()
+createElement()
+appendChild()
+Math.random()
+sort()
+for loops
+
+pls have the images at 100x100px
+
+
+pyth is ez 2 learn = so ive been told 
+https://www.youtube.com/watch?v=8ext9G7xspg
