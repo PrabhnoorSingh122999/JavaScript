@@ -2,8 +2,8 @@ body {
     font-family: "Roboto", sans-serif;
     font-size: 32px;
     font-weight: 100;
-    color: #ffffff;
-    background-color: #000000;
+    color: #000000;
+    background-color: #ffffff;
   }
   
   .container {
@@ -29,8 +29,9 @@ body {
     font-weight: 100;
   }
   
-  .fa-plus-circle {
-    color: #4b8ce8;
+.fa-plus-circle {
+    /* color: #4b8ce8; */
+    color: red;
     cursor: pointer;
   }
   
