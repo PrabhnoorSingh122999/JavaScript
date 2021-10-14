@@ -1,0 +1,7 @@
+.grid{
+    display: flex ;
+    flex-wrap: wrap;
+    height: 300px;
+    width: 400px;
+}
+/* bcz our cards are 100 by 100 - we'd be able to make a 3 by 4 grid */
