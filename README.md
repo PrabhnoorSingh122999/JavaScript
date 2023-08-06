@@ -1,7 +1,7 @@
 # JavaScript
 
 learning javascript 
-1. Color Flipper
+1. Todo App __ Fully functioning 
 2. Memory Game 
-3. Todo App __ Fully functioning 
+3. Color Flipper
 4. Whac-a-mole 
